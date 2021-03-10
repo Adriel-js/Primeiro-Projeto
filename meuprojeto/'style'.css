@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+body {
+    background-color:#F2BEA0;
+}
+H1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#F21616;
+    text-align:center;
+    
+    
+}
+#Suu{
+    text-align: center;
+    color:#F21616;
+    font-size:2em;
+    
+}
+p{
+    font-style: italic;
+    text-align: justify;
+}
+#cliente{
+    
+    color:#F21616;
+    text-align: center;
+    font-size: 2em;
+    
+}
