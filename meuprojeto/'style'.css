@@ -21,9 +21,20 @@ p{
     text-align: justify;
 }
 #cliente{
-    
-    color:#F21616;
+   
+    padding: 10px;
+    color:#000000;
     text-align: center;
-    font-size: 2em;
-    
+    font-size: 1em;
+}
+img.cliente{
+    float:inline-start;
+}
+main{
+
+ background-color: white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(206, 128, 128) ;
+    width: 600px;
+    margin: auto;
 }
