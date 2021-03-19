@@ -27,14 +27,24 @@ p{
     text-align: center;
     font-size: 1em;
 }
-img.cliente{
-    float:inline-start;
+img.direita{
+    float: right;
+}
+img.esquerda{
+    float: left;
 }
 main{
-
- background-color: white;
-    border-radius: 10px;
+    margin: auto;
+    background-color: seashell;
+    text-align: center;
+    color:#F21616;
+    font: arial 20px;
     box-shadow: 5px 5px 5px rgb(206, 128, 128) ;
     width: 600px;
-    margin: auto;
+}
+p.antes{
+    text-align: center;
+    font-size: bolder 16px;
+    font-family: Arial, Helvetica, sans-serif ;
+    font: 1.1em sans-serif;
 }
