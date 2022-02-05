@@ -5,6 +5,29 @@
 }
 header{
     text-align: center;
+    background-image: linear-gradient(to top, rgb(255, 0, 0),rgb(190, 126, 126));
+    height: 130px;
+}
+header h1{
+        padding: 20px;
+}
+nav{
+    background-color: red;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    transition-duration: 1s;
+}
+nav a:hover{
+    background-color: rgb(243, 119, 119);
+    
+
 }
 main{
 
